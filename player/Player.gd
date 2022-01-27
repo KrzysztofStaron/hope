@@ -1,5 +1,9 @@
 extends KinematicBody2D
 
+# f - folder / file
+# c - create
+# m - move
+# a - add
 onready var sprite = $Sprite
 onready var anim = $anim.get("parameters/playback")
 

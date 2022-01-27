@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hopeRun.png-82d8c5785c63548dd857e0013b00df76.stex"
+path="res://.import/hopeLand.png-4f16c7814332042f3159962eb907e453.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://player/hopeRun.png"
-dest_files=[ "res://.import/hopeRun.png-82d8c5785c63548dd857e0013b00df76.stex" ]
+source_file="res://player/img/hopeLand.png"
+dest_files=[ "res://.import/hopeLand.png-4f16c7814332042f3159962eb907e453.stex" ]
 
 [params]
 

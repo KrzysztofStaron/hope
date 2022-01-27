@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hopeJump.png-bd86af7e9be8520d9edc046ceeb7fdae.stex"
+path="res://.import/hopeDeath.png-86d48937443afa21351e39ff2f4473a9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://player/hopeJump.png"
-dest_files=[ "res://.import/hopeJump.png-bd86af7e9be8520d9edc046ceeb7fdae.stex" ]
+source_file="res://player/img/hopeDeath.png"
+dest_files=[ "res://.import/hopeDeath.png-86d48937443afa21351e39ff2f4473a9.stex" ]
 
 [params]
 

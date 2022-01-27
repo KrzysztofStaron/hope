@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hopeFall.png-d2f9c53421774721b2ace87777ed8d0d.stex"
+path="res://.import/hopeFall.png-97a1dad0228722c2dc03a9e738ac9a0d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://player/hopeFall.png"
-dest_files=[ "res://.import/hopeFall.png-d2f9c53421774721b2ace87777ed8d0d.stex" ]
+source_file="res://player/img/hopeFall.png"
+dest_files=[ "res://.import/hopeFall.png-97a1dad0228722c2dc03a9e738ac9a0d.stex" ]
 
 [params]
 
